@@ -1,22 +1,4 @@
-/*
---------------------------------------------------------* 
 
-[Cadeniuc, Main Stylesheet ]
-
-    Color        : BLUE  ( #00B6F9 )
-
-    Name         : JOHN - Responsive Onepage Resume Template
-
-    Version      :  1.0 
-
-    Author       :  Cadeniuc
-
-    Author URI   :  https://themeforest.net/user/cadeniuc
-
-    Author Email : icadeniuc16@gmail.com
-
---------------------------------------------------------
-*/
 $(function(){
     "use strict";
 
